@@ -1,1 +1,1 @@
-
+Business Partner Data Model
