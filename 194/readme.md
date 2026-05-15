@@ -1,1 +1,0 @@
-Material Master Data Model
